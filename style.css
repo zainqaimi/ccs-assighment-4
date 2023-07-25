@@ -1,0 +1,249 @@
+div{
+    border: solid black 1px;
+    text-align: center;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table{
+    text-transform: capitalize;
+    max-width: fit-content;
+    border-spacing: 0;
+    padding: 0px;
+    margin: 0%;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+   }
+#logo {
+    background-color: rgb(130, 3, 3);
+    color: white;
+    width: 400px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.row1 {
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0%;
+}
+
+.list {
+    text-decoration: none;
+    text-align: justify;
+    background-color: black;
+    color: white;
+    border: none;
+    text-transform: capitalize;
+
+}
+
+.logos {
+    width: 100px;
+    height: 20px;
+}
+
+.row3 {
+    border: none;
+    border-bottom: 3px solid rgb(169, 169, 169);
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: normal;
+    padding-top: 10px;
+
+}
+
+.row4 {
+    color: rgb(12, 142, 223);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    border: none;
+    width: 200px;
+    
+}
+
+#row4 {
+    color: rgb(138, 140, 141);
+    text-transform: capitalize;
+    text-align: left;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    border: none;
+}
+
+.row5 {
+    border: none;
+    text-transform: uppercase;
+    font-size: small;
+}
+
+.row6 {
+    text-decoration: none;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#date {
+    color: silver;
+    text-align: left;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+}
+
+#head {
+    color: rgb(8, 0, 0);
+    text-align: left;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+   border: none;
+}
+
+.head {
+    color: black;
+    text-align: left;
+    font-size: small;
+    text-transform: capitalize;
+    padding: 0%;
+    margin: 0%;
+    border: none;
+    border-bottom: 3px silver solid;
+    
+
+
+}
+
+.hpara {
+    color: rgb(12, 142, 223);
+    text-align: left;
+    font-size: small;
+    text-transform: capitalize;
+    padding: 0%;
+    margin: 0%;
+    border: none;
+    border-bottom: 3px silver solid;
+}
+#row7{
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    padding-top: 20px;
+}
+#row8{
+    font-size: small;
+    border: none;
+    padding: 0%;
+    margin: 0%;
+}
+#lasthead{
+    font-size: small;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: left;
+    border: none;
+
+}
+.lasthead{
+    font-size: small;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    border: none;
+}
+.lrows{
+    color: rgb(12, 142, 223);
+    text-transform: capitalize;
+    font-size: small;
+    text-align: left;
+    border: none;
+    margin: 0%;
+    padding: 0%;
+}
+.usd{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: small;
+    border: none;
+    margin: 0%;
+    padding: 0%;
+}
+td:hover{
+    transform: scale(1.1);
+}
+#table2{
+    text-transform: uppercase;
+    border-spacing: 0px;
+    
+}
+#table2{
+    border: none;
+}
+.market{
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(3, 103, 143);
+    text-align: left;
+    margin: 0px;
+    font-size: medium;
+    }
+    a{
+        text-transform: uppercase;
+        color: white;
+        background-color: rgb(3, 103, 143);
+        text-align: center;
+        margin: 0px;
+        text-decoration: none;
+        font-size: small;
+        }
+        #by{
+           font-size: small;
+           text-transform: uppercase;
+           text-align: left; 
+        }
+        #trade{
+            font-size: small;
+           text-transform: uppercase;
+           text-align: center;
+           color: white;
+           background-color: rgb(171, 5, 5);
+           width: 20px;
+           height: 20px;
+        }
+        .heading{
+            text-align: left;
+            font-weight: bold;
+            text-transform: capitalize;
+            background-color: skyblue;
+        }
+        .indices{
+            background-color: skyblue;
+            text-transform: capitalize;
+            border: none;
+        }
+        select{
+            border: none;
+            text-align: right;
+            
+        }
+        .bgcolor{
+            background-color: rgb(202, 234, 247);
+        
+        }
+        .blank{
+            height: 20px;
+        }
+        
